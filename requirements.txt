@@ -1,0 +1,6 @@
+# Core dependencies
+numpy>=1.22.0
+tqdm>=4.65.0
+
+# Optional LLM integration
+openai>=1.0.0

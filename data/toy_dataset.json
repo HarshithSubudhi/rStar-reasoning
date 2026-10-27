@@ -1,0 +1,20 @@
+[
+  {
+    "id": "toy_math_01",
+    "question": "Janet pays $40/month for 3 months for her gym membership. She also bought 2 pairs of training shoes for $65 each and a water bottle for $15. How much did she spend in total?",
+    "expected_answer": "265",
+    "domain": "Arithmetic Reasoning (GSM8K style)"
+  },
+  {
+    "id": "toy_math_02",
+    "question": "A bakery makes 120 cupcakes in the morning. They sell 3/4 of them by noon. In the afternoon, they bake another 50 cupcakes and sell 40 cupcakes before closing. How many cupcakes are left at the end of the day?",
+    "expected_answer": "40",
+    "domain": "Multi-step Fractional Reasoning"
+  },
+  {
+    "id": "toy_logic_03",
+    "question": "A farmer has 15 sheep. All but 8 die in an illness outbreak. Then he purchases 5 more healthy sheep. How many live sheep does the farmer have now?",
+    "expected_answer": "13",
+    "domain": "Tricky Word Problem / Logical Reasoning"
+  }
+]
